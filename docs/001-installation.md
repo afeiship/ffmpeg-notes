@@ -11,3 +11,10 @@ make && make install
 # check if installed
 ffmpeg -h
 ```
+
+
+## problem
+~~~
+nasm/yasm not found or too old. Use --disable-x86asm for a crippled build.
+~~~
+- https://blog.csdn.net/liuzehn/article/details/78667667
