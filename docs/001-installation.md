@@ -17,4 +17,9 @@ ffmpeg -h
 ~~~
 nasm/yasm not found or too old. Use --disable-x86asm for a crippled build.
 ~~~
+
+```shell
+brew install yasm
+```
+
 - https://blog.csdn.net/liuzehn/article/details/78667667
